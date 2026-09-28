@@ -1,0 +1,11 @@
+{
+    "python.analysis.stubPath": "C:\\Users\\Jason\\.kendryte\\k230_canmv_pylance\\a5000be8c51ddecc\\typings",
+    "cmake.sourceDirectory": "${workspaceFolder}",
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/build/Debug/compile_commands.json",
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python.analysis.extraPaths": [
+        "C:\\Users\\Jason\\.kendryte\\k230_canmv_stubs\\95579ebe4e870ef4b36ddfcd62e304b22787c514"
+    ]
+}

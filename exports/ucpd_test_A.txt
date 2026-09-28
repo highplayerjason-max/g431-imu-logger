@@ -1,0 +1,30 @@
+
+UCPD diagnostic:
+PWR_CR3 before = 0x00008000, after = 0x00008000
+UCPD1_DBDIS = 0
+PB6 before GPIO init: not sampled (reset mode is analog)
+PB6 after GPIO init = 1, after USART1 init = 1
+PA9 after USART1 init = 1, PA10 = 1
+
+IMU timing test: bank0 write status 0
+before reset WHO[0] = 0x00 status 0
+before reset WHO[1] = 0x00 status 0
+before reset WHO[2] = 0x00 status 0
+before reset WHO[3] = 0x00 status 0
+before reset WHO[4] = 0x00 status 0
+before reset WHO[5] = 0x00 status 0
+before reset WHO[6] = 0x00 status 0
+before reset WHO[7] = 0x00 status 0
+before reset WHO[8] = 0x00 status 0
+before reset WHO[9] = 0x00 status 0
+software reset write status 0, post-reset bank0 write status 0
+after reset WHO[0] = 0x00 status 0
+after reset WHO[1] = 0x00 status 0
+after reset WHO[2] = 0x00 status 0
+after reset WHO[3] = 0x00 status 0
+after reset WHO[4] = 0x00 status 0
+after reset WHO[5] = 0x00 status 0
+after reset WHO[6] = 0x00 status 0
+after reset WHO[7] = 0x00 status 0
+after reset WHO[8] = 0x00 status 0
+after reset WHO[9] = 0x00 status 0
